@@ -1,0 +1,91 @@
+*{
+	padding:0;
+	margin:0;
+}
+
+.container{
+    width: 80%;
+    margin: 0px auto;
+}
+ul{
+    list-style-type: "\2192";
+	
+}
+h1{
+	text-align: center;
+	background-color:blue;
+	color: gray;
+	padding:40px;
+}
+.index-page ul{
+    list-style-type: "\2192";
+}
+.index-page a{
+	text-decoration:none;
+}
+.index-page li{
+	padding:15px;
+}
+.index-page h4{
+	padding:19px 1px;
+	text-align: center;
+}
+.index-page a:
+  text-decoration: 10px;
+}
+.index-page h4:hover{
+	background-color:red;
+}
+
+/* --- Text-page --- */
+.text-page .p1{
+	font-size:24px;
+}
+.text-page .p2{
+	font-weight:bold;
+}
+.text-page .p8{
+	font-weight:bold;
+}
+.text-page .p3{
+font-style:italic;
+}
+.text-page .p4{
+font-family:sans-serif;
+}
+.text-page .p5{
+color: #184ca1;
+}
+.text-page .p6{
+text-decoration: underline;
+}
+.text-page .p7{
+text-transform:uppercase;	
+}
+ /* --- Text-fon --- */
+.Text-fon .blockb1{
+background-color:green;
+}
+.Text-fon .blockb2{
+	background-image: url("back-612x367.jpg");
+}
+.Text-fon .blockb3{
+	background-image: url("tiling-wall.png");
+	background-repeat:no-repeat;
+}
+.Text-fon .blockb4{
+	background-image: url("background-repeat-image.jpg");
+	background-repeat: repeat-x;
+} 
+.Text-fon .blockb5{
+	background-image: url("background-images-dark.jpg");
+	background-position: repeat;
+} 
+.Text-fon .blockb6{
+	background-image: url("pixar-virtualbg.jpeg");
+    background-position:center;
+} 
+.Text-fon .block-x{
+	background-image: url("pixar-virtualbg.jpeg");
+	background-attachment: 500px;
+}
